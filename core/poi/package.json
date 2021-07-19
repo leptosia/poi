@@ -63,7 +63,7 @@
     "react-refresh": "^0.8.3",
     "resolve-from": "^5.0.0",
     "string-width": "^4.1.0",
-    "superstruct": "^0.6.0",
+    "superstruct": "^0.15.1",
     "terser-webpack-plugin": "^2.1.2",
     "text-table": "^0.2.0",
     "thread-loader": "^1.2.0",
