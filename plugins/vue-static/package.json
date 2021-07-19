@@ -23,6 +23,6 @@
     "vue-meta": "^1.5.6",
     "vue-router": "^3.0.2",
     "vue-server-renderer": "^2.5.21",
-    "webpack-node-externals": "^1.7.2"
+    "webpack-node-externals": "^2.5.2"
   }
 }
