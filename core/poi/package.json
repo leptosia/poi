@@ -59,7 +59,7 @@
     "lodash.merge": "^4.6.1",
     "ora": "^3.0.0",
     "postcss-loader": "^3.0.0",
-    "pretty-ms": "^4.0.0",
+    "pretty-ms": "^7.0.1",
     "react-refresh": "^0.8.3",
     "resolve-from": "^5.0.0",
     "string-width": "^4.1.0",
