@@ -9,7 +9,7 @@
     "index.js"
   ],
   "dependencies": {
-    "fork-ts-checker-webpack-plugin": "^0.5.0",
+    "fork-ts-checker-webpack-plugin": "^6.1.0",
     "ts-loader": "^5.3.0",
     "ts-pnp": "^1.0.0",
     "tslint": "^6.1.2"
